@@ -22,10 +22,10 @@ This repository is a collection of my projects, activities, and learning journey
 | 🧱 OOP            | 0 mini-projects   | 0 major project    | Build a game using OOP principles  |
 
 # 📚 Midterm Lab Tasks 
-### Miterm Lab Task 1:[view file](MtermLabTask#1.pdf)
-### Miterm Lab Task 2:[view file](MtermLabTask#2.pdf)
-### Miterm Lab Task 3:[view file](MtermLabTask#3.docx)
-### Miterm Lab Task 4:[view file](MtermLabTask#4.pdf)
-### Miterm Lab Task 5:[view file](MtermLabTask#1.pdf)
+### Miterm Lab Task 1:[view file](MtermLabTask1.pdf)
+### Miterm Lab Task 2:[view file](MtermLabTask2.pdf)
+### Miterm Lab Task 3:[view file](MtermLabTask3.docx)
+### Miterm Lab Task 4:[view file](MtermLabTask4.pdf)
+### Miterm Lab Task 5:[view file](MtermLabTask1.pdf)
 
 
