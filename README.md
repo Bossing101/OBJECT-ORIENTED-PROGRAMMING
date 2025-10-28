@@ -26,6 +26,6 @@ This repository is a collection of my projects, activities, and learning journey
 ### Miterm Lab Task 2:[view file](MtermLabTask2.pdf)
 ### Miterm Lab Task 3:[view file](MtermLabTask3.docx)
 ### Miterm Lab Task 4:[view file](MtermLabTask4.pdf)
-### Miterm Lab Task 5:[view file](MtermLabTask1.pdf)
+### Miterm Lab Task 5:[view file](https://drive.google.com/file/d/1ry9g9x223ox1kFf2XDLcJCVJIRYdHfB6/view)
 
 
